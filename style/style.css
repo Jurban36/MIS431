@@ -17,8 +17,13 @@
     /* float: left; */
 }
 #centertext{
-    position: relative;
-    top: 25px;
+    width: 100%; 
+    height: 80%;
+    /* position: fixed; */
+    /* color: #f7941f; */
+    /* background-color: red; */
+    position: absolute;
+    top: 15%;
 }
 #individualdiv{
     visibility: hidden;
